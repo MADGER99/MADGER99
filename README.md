@@ -2,6 +2,10 @@
 # 💫 About Me:
 <br><br>### About Me 😎<br><br>👋 Hi there! I'm a **Web Application Developer** ✍️who is passionate about building with 💻Front-End technologies such as React and Next.js and 🔧Back-End technologies such as Node.js, MySQL and MongoDB in order to achieve my goal of becoming a 🚀**Full Stack developer.
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surasakjantapan) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@) 
+
 <!--
 **MADGER99/MADGER99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
