@@ -1,4 +1,6 @@
-## Hi there 👋
+
+# 💫 About Me:
+<br><br>### About Me 😎<br><br>👋 Hi there! I'm a **Web Application Developer** ✍️who is passionate about building with 💻Front-End technologies such as React and Next.js and 🔧Back-End technologies such as Node.js, MySQL and MongoDB in order to achieve my goal of becoming a 🚀**Full Stack developer.
 
 <!--
 **MADGER99/MADGER99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
